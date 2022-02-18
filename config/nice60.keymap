@@ -35,7 +35,6 @@
 	&trans  &trans   &trans                            &trans                                      &trans      &trans      &mo 2               &trans
 			>;
 		};
-	};
 
 		rgb_layer {
 			bindings = <
